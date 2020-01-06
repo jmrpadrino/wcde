@@ -1,0 +1,23 @@
+.wc-single-dropdown {
+    display: block;
+    width: 100%;
+    border: 0;
+    background: transparent;
+    outline: none;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 18px;
+    color: black;
+    box-shadow: none !important;
+}
+.wc-title {
+    font-size: 14px !important;
+    letter-spacing: 2px !important;
+}
+#wc_single_additional_notes,
+#wc_single_front_patches,
+#wc_single_dropdown_brand {
+    background: #e0e0e0 !important;
+    color: black !important;
+    margin-bottom: 18px !important;
+}
